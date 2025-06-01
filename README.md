@@ -29,4 +29,5 @@ This script automates the process of commenting on Facebook posts using `undetec
 ## 🔒 Disclaimer
 This project is for educational purposes only. Automating Facebook may violate their terms of service.
 
-📺 [ดูวิดีโอบน YouTube](https://youtu.be/Bo1zKf0OTT0)
+[![ดูวิดีโอบน YouTube](https://img.youtube.com/vi/Bo1zKf0OTT0/hqdefault.jpg)](https://youtu.be/Bo1zKf0OTT0)
+
