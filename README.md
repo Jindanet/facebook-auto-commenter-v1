@@ -18,3 +18,15 @@ This script automates the process of commenting on Facebook posts using `undetec
 ## 🔧 Setup
 1. Clone the repo
 2. Install required packages:
+3. Edit `postlink.txt` with your Facebook post URLs
+4. Run the script:
+
+
+## 🧠 Notes
+- Ensure the Chrome profile path and coordinates match your screen resolution
+- Designed to run daily and restart after 24 hours
+
+## 🔒 Disclaimer
+This project is for educational purposes only. Automating Facebook may violate their terms of service.
+
+📺 [ดูวิดีโอบน YouTube](https://youtu.be/Bo1zKf0OTT0)
