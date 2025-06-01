@@ -1,4 +1,4 @@
-# Facebook Auto Commenter V2 🚀
+# Facebook Auto Commenter 🚀
 
 This script automates the process of commenting on Facebook posts using `undetected-chromedriver`, `Selenium`, and `PyAutoGUI`.
 
